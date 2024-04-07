@@ -11,13 +11,12 @@ Breast cancer is one of the most common cancers among women worldwide. Early det
 **Dependencies**
 
 Python 3
-scikit-learn
+
 pandas
+
 numpy
 
-**Dataset**
-
-The dataset used for this project contains features extracted from digitized images of breast cancer biopsies. The features include characteristics such as radius, texture, perimeter, area, smoothness, compactness, concavity, symmetry, fractal dimension, etc. The target variable indicates the diagnosis, whether the patient has malignant (cancerous) or benign (non-cancerous) tumors.
+scikit-learn
 
 **Data Pre-processing**
 
