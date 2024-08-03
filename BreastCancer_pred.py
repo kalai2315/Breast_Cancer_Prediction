@@ -6,7 +6,7 @@ from streamlit_option_menu import option_menu
 
 # Load the trained model
 #model_filename = 'F:\project\BreastCancer_project\svm_model.pkl'
-with open(svm_model.pkl, 'rb') as file:
+with open('svm_model.pkl', 'rb') as file:
     svm_model = pickle.load(file)
 
 
